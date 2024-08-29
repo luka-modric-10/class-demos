@@ -1,0 +1,4 @@
+Arena/City/State/Length/Width
+LaBahn Arena/Madison/WI/200/90
+Ridder Arena/Minneapolis/MN/200/85
+AMSOIL Arena/Duluth/MN/200/85
